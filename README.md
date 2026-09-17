@@ -1,3 +1,5 @@
+> **Moved.** This standard now lives in the consolidated DS4AI suite at [Polymathie-Studio/ds4ai/standards/grasp](https://github.com/Polymathie-Studio/ds4ai/tree/main/standards/grasp). This repository is archived and read-only.
+
 # GRASP
 
 <picture>
